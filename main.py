@@ -2,6 +2,7 @@ import sys
 
 def main() -> int:
     """print args"""
+    print("beautiful")
     print(sys.argv)
     return 0
 
