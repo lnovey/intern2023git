@@ -4,6 +4,7 @@ def main() -> int:
     """print args"""
     print("pretty")
     print("more pretty")
+    blah
     print(sys.argv)
     return 0
 
